@@ -13,4 +13,5 @@
 ### notices
 ##### why you shouldnt put it in a folder: the command will not work
 ##### i ran these commands on vscode so this might not work
+##### if running on termux make sure to delete the psutil modual witch will stop the mem cmd from working
 --------------
